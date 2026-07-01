@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Automatic Window Operation System
+description:  
+    Designed and built a dual-microcontroller (ESP32-S3/ESP23-C6) automated window system
+    featuring an indoor and outdoor environmental sensing over ESP-NOW + Wi-Fi, a 3-mode state machine (AUTO/MANUAL/LOCK), and a closed-loop actuator control. Delivered as a fully working prototype with custom PCBs, a Wi-Fi dashboard, SD Card data logging, and safety interlocks (E-STOP, overcurrent protection, rain/wind response), taken from schematic design through firmware, enclosure fabrication, and bench validation.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - PCB Design (Altium Designer)
+  - Breadboard prototyping
+  - Soldering
+  - ESP-NOW + Wi-Fi 
+  - C/C++
+  - PlatformIO
+  - 3D Design (Fusion)
 
 main-image: /project2.jpg
 ---
