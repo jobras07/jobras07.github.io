@@ -13,11 +13,11 @@ title: Job's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: John Benedict Rastrullo
-headline: headline message
+headline: Diploma in Electronics Engineering Graduate
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A graduate of NZ Diploma in Engineering (Electronics), Level 6, with hands-on experience in embedded systems design, 
+  PCB development, and hardware prototyping. My work spans full system builds including custom PCBs, 
+  3D-printed enclosures, and live web dashboards.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -45,47 +45,36 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
-    tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+  - category: Design Tools
     tools:
     - Altium Designer
-  - category: Problem Solving / Risk Management
+    - Fusion
+    - LTspice
+  - category: Hardware
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - Soldering
+    - PCB Assembly
+    - Breadboard prototyping
+    - Troubleshooting
+  - category: Embedded & Programming
+    tools:
+    - C/C++
+    - Python
+    - PlatformIO    
+    - VS Code
+    - Arduino
+    - ESP32
+    - ESP-NOW/Wi-Fi
+  - category: Testing & Diagnostic Equipment
+    tools:
+    - Multimeter
+    - Oscilloscope
+    - Function Generator
+    - DC Power Supply
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/xdarwavr
 
 
 
