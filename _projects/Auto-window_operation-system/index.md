@@ -26,7 +26,6 @@ main-image: /whole_project1.png
 - Full data logging pipeline: SD card CSV storage at 5-second intervals, downloadable logs, and a live Wi-Fi web dashboard
 - Custom PCB design in Altium with 3D-printed enclosures for both indoor and outdoor units
 - Fully assembled, working prototype validated through bench testing (5 trials x 4 target positions), with 12-module firmware architecture built in C++/PlatformIO
-
  ---
 
 ## Indoor Module 
