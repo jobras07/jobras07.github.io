@@ -7,6 +7,7 @@ description:
 skills: 
   - PCB Design (Altium Designer)
   - Breadboard prototyping
+  - PCB Assembly
   - Soldering
   - ESP-NOW + Wi-Fi 
   - C/C++
@@ -29,12 +30,12 @@ main-image: /whole_project1.png
  ---
 
 ## Indoor Module 
-{% include image-gallery.html images="awo_in_pcb1.png,awo_in_pcb2.png,awo_in_pcb3.png,awo_in_pcb4.png,awo_in_assmbld1.png,awo_in_assmbld2.png" height="400" %} 
+{% include image-gallery.html images="awo_in_pcb1.png,awo_in_pcb2.png,awo_in_pcb3.jpg,awo_in_pcb4.jpg,awo_in_assmbld1.jpg,awo_in_assmbld2.jpg" height="400" %} 
  
 
 
 ## Outdoor Module
-{% include image-gallery.html images="awo_out_pcb1.png,awo_out_pcb2.png,awo_out_pcb3.png,awo_out_pcb4.png,awo_out_assmbld1.png" height="400" %} 
+{% include image-gallery.html images="awo_out_pcb1.png,awo_out_pcb2.png,awo_out_pcb3.jpg,awo_out_pcb4.jpg,awo_out_assmbld1.jpg" height="400" %} 
 
 ## Web Dashboard
 {% include image-gallery.html images="dashboard1.png,dashboard2.png" height="400" %} 
