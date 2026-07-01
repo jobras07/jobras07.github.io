@@ -19,5 +19,5 @@ main-image: /
  ---
 
 ## Gallery 
-{% include image-gallery.html images="alfr_3d_pcb_altium.png,alfr_assmbld1.png,alfr_assmbld2.png" height="400" %} 
+{% include image-gallery.html images="alfr_3d_pcb_altium.png, alfr_assmbld1.png, alfr_assmbld2.png" height="400" %} 
  
