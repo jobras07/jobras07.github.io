@@ -13,7 +13,7 @@ skills:
   - PlatformIO
   - 3D Design (Fusion)
 
-main-image: /project2.jpg
+main-image: /whole_project1.png
 ---
 
 ---
