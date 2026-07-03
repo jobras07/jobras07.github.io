@@ -2,14 +2,14 @@
 layout: post
 title: Analog Line Following Robot
 description:  
-    Designed and built a fully analog line-following robot with no microcontroller: control logic implemented entirely in hardware. IR reflectance sensors feed into an LM358P op-amp comparator stage to detect the line, with the comparator output driving an L293D H-bridge to differentially control the drive motors.
+  Designed and built a fully analog line-following robot with no microcontroller. Control logic implemented entirely in hardware. IR sensors feed into an LM358P op-amp comparator stage to detect the line, with the comparator output driving an L293D H-bridge to control the motors.
 skills: 
   - PCB Design (Altium Designer)
   - PCB Assembly
   - Breadboard prototyping
   - Soldering
 
-main-image: /whole_project1
+main-image: /whole_project1.png
 ---
 
 ---
